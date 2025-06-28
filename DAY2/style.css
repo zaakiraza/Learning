@@ -1,0 +1,57 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+    font-size: 50px;
+}
+
+h2{
+    color: red;
+    font-size: 80px;
+    font-weight: 800;
+
+}
+
+.blue{
+    color: blue;
+}
+
+div{
+    background-color: black ;
+    color: white;
+}
+
+
+
+.heading{
+    text-align: center;
+    color: red;
+}
+
+.heading2{
+    background-color: blueviolet;
+    color: white;
+}
+
+.box {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.innerBox {
+    width: 50px;
+    height: 50px;
+    background-color: purple;
+}
+
+video {
+    margin: 10px;
+} */
