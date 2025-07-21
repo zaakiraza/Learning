@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Section 1 */
+.sec_one {
+    background: black;
+    color: white;
+    padding: 10px;
+}
+
+.sec_one h1 {
+    text-align: right;
+}
+
+
+/* Section 2 */
+.sec_two {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 30px;
+    align-items: center;
+}
+
+.sec_two ul {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.sec_two ul li a img {
+    width: 100px;
+}
+
+.sec_two ul li a i {
+    padding-left: 5px;
+    font-size: 14px;
+}
+
+.sigupBtn {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.sigupBtn a button {
+    padding: 10px 20px;
+    background: #0072cc;
+    color: white;
+    border: 1px solid #0072cc;
+    border-radius: 14px;
+    font-size: 15px;
+}
+
+.sigupBtn i {
+    font-size: 22px;
+}
+
+/* Section 3 */
+
